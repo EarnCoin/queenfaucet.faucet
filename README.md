@@ -1,2 +1,9 @@
-# queenfaucet.faucet
-{"title":"Queen Faucet","cat":"Bitcoin","description":"5 mins 5 satoshi Multicoin(多種幣) faucenthub.io"}
+# Queen Faucet
+
+bitcoin 
+5 min
+5 satoshi
+
+Etherrum
+5 min
+105 Gwei
